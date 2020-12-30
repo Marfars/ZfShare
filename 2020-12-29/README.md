@@ -6,6 +6,8 @@
 
 ### 安装下载Unicorn库：pip install unicorn
 
+### 启动demo文件：python demo1.py/demo2.py
+
 ## 如果想要查看libnative.so的文件代码，烦请安装IDA 7.0.170914及以上版本
 
 ## 建议运行前清空test.txt文件内容，以防干扰demo2.py的运行结果
